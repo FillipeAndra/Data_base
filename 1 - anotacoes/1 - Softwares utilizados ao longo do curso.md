@@ -7,6 +7,12 @@
 
 - software para fazer uml do esquema do banco de dados
 
+## ERDLab
+
+- https://app.erdlab.io/dashboard
+
+- software para fazer uml do esquema do banco de dados
+
 ## MYSQL, PostgreSQL, SQL Server, Oracle Express
 
 - Servidores e SGBDs (sistemas de gerenciamento de bancos de dados) para Trabalhar com Bancos de dados com SQL (structured query language)
